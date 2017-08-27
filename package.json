@@ -1,6 +1,6 @@
 {
   "name": "web-animation-eases",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Advanced easing functions for Web Animations API",
   "main": "index.js",
   "repository": "laggingreflex/web-animation-eases",
